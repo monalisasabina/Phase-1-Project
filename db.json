@@ -1,0 +1,36 @@
+{
+    "tools": [
+      {
+        "id": 1,
+        "name": "Multimeter",
+        "image": "src/pexels-willquezada-904402-4398314.jpg",
+        "available-tools": 5
+      },
+      {
+        "id": 2,
+        "name": "Pliers",
+        "image": "src/traditional-combination-plier-2-.jpg",
+        "available-tools": 8
+      },
+      {
+        "id": 3,
+        "name": "Long-nose pliers",
+        "image": "src/download (1).jpeg",
+        "available-tools": 8
+      },
+      {
+        "id": 4,
+        "name": "Electrical tester",
+        "image": "src/electric-tester-pen.jpg",
+        "available-tools": 15
+      },
+      {
+        "id": 5,
+        "name": "Hammer",
+        "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
+        "likes": 14
+      }
+     
+      
+    ]
+  }

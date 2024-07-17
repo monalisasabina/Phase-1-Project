@@ -1,0 +1,54 @@
+body {
+    /* background-image: url(src/20230304_130439.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px; */
+
+}
+
+#title {
+    background-color:seagreen;
+    color: white;
+    text-align: center;
+    height: 60px;
+}
+
+#logo {
+    background-color: white;
+    margin-top: 1px;
+}    
+
+img {
+    height: 100px;
+
+}
+/* ......................................................................... */
+
+
+form{
+   background-color:darkgoldenrod;
+   background-size: auto;
+   border-radius: 5px;
+   height: 250px;
+   width: 400px;
+   padding: 30px;
+   margin-top: 5px;
+}
+
+input {
+  width: 100%;
+  height: 10%;
+  font-size: 15px;
+  border-radius: 5px;
+  
+ 
+}
+
+input#submit{
+    width: 50%;
+    margin-top: 10px;
+    height: 15%;
+}
+
+label{
+    font-size: 20px;
+}
