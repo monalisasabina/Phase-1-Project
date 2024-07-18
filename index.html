@@ -2,38 +2,62 @@
 <html lang="en">
     <head>
         <meta charset="utf-8" />
-        <title>WEEK 3 CODE CHALLENGE</title>
-        <script src="index.js"></script>
+        <title>PHASE-1 PROJECT</title>
         <link rel="stylesheet" href="style.css">
-
-
+        <link rel="icon" type="image/x-icon" href="src/irene-kredenets-E95Lpkg-bgc-unsplash.jpg">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap" rel="stylesheet">
+        <script src="index.js"></script>
     </head>
+
     <body>
         <div id="logo">
-            <img src="src/Screenshot from 2024-07-17 17-10-45.png" alt="">
+            <img src="src/Screenshot from 2024-07-17 17-10-45.png" alt="Panthera Activated Carbon logo">
+         
+        </div>    
+
+        <div id="links">
+            <nav>
+                <a href="#">  <strong>HOME</strong>  </a>
+                <a href="#"> <strong>DEPARTMENTS</strong> </a>
+                <a href="#"> <strong>CONTACTS</strong> </a>
+            </nav>
+
+        </div>    
 
         <div id="title">
                 <h1>Engineering Stores</h1> 
              </div>
         </div>
-     
-        <div id="form">
 
+        <div id="form">
             <form>
                 <label for=" tool">Tools</label>
-                <input  id="tool"  type="text" placeholder="Search tool" required>
-        
+                <input  id="tool"  type="text" placeholder="Add tool" required>
+
                 <label for="tool-picture">Picture</label>
-                <input  id="tool-picture"  type="text" placeholder="Picture"  >
+                <input  id="tool-picture"  type="text" placeholder="Add url or path of the picture"  >
                
                 <label for="tool-number">Number of tools</label>
                 <input  id="tool-number"  type="number" placeholder="Add number of tools" min="1"  max="100" step="1">
-                
-
-                <input  id="submit" type="submit"  value="Check">
+        
+                <input  id="submit" type="submit"  value="ADD">
             
-            </form>
-           
+            </form>    
+        </div>
+
+        <div id="tool-list">
+            <ul id="list"></ul>
+
+
+        </div>
+
+        <div id="info">
+            <h4>PLEASE NOTE</h4>
+            <p>Please ensure all tools are returned by the end of the shift by the technician or engineer.</p>
+            <p>Contact</p>
+
         </div>
 
 
