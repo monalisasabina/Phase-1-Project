@@ -4,79 +4,79 @@
         "id": 1,
         "name": "Multimeter",
         "image": "src/pexels-willquezada-904402-4398314.jpg",
-        "available-tools": 5,
-        "number-of-tools":8
+        "availableTools": 5,
+        "total":8
       },
       {
         "id": 2,
         "name": "Pliers",
         "image": "src/traditional-combination-plier-2-.jpg",
-        "available-tools": 8,
-        "number-of-tools":10
+        "availableTools": 8,
+        "total":10
       },
       {
         "id": 3,
         "name": "Long-nose pliers",
         "image": "src/download (1).jpeg",
-        "available-tools": 8,
-        "number-of-tools":10
+        "availableTools": 8,
+        "total":10
          
       },
       {
         "id": 4,
         "name": "Electrical tester",
         "image": "src/electric-tester-pen.jpg",
-        "available-tools": 15,
-        "number-of-tools":20
+        "availableTools": 15,
+        "total":20
       },
       {
         "id": 5,
         "name": "Hammer",
         "image": "src/jonny-gios-ARaYGFeuwpU-unsplash.jpg",
-        "available-tools": 5,
-        "number-of-tools": 10
+        "availableTools": 5,
+        "total": 10
       },
       {
         "id": 6,
         "name": "Flat Screw driver",
         "image": "src/download.jpeg",
-        "available-tools": 15,
-        "number-of-tools":20
+        "availableTools": 15,
+        "total":20
       },
       {
         "id": 7,
         "name": "Star Screw Driver",
         "image": "src/star-screwdriver-2119.html",
-        "available-tools": 10,
-        "number-of-tools":20
+        "availableTools": 10,
+        "total":20
       },
       {
         "id": 8,
         "name": "Cordless Hand Drill",
         "image": "src/download (2).jpeg",
-        "available-tools": 8,
-        "number-of-tools":10
+        "availableTools": 8,
+        "total":10
       },
       {
         "id": 9,
         "name": "Clamp meter",
         "image": "src/download (3).jpeg",
-        "available-tools": 15,
-        "number-of-tools":20
+        "availableTools": 15,
+        "total":20
       },
       {
         "id": 10,
         "name": "Adjustable Spanner",
         "image": "src/360_F_780294730_WWDmhOV4f0OsX7xQmtTqx6TcSqOjRruB.jpg",
-        "available-tools": 12,
-        "number-of-tools":15
+        "availableTools": 12,
+        "total":15
       },
       {
         "id": 11,
         "name": "Torch",
         "image": "src/Dp-Led-Portable-Rechargeable-Torch-–-DP-7332B1.webp",
-        "available-tools": 5,
-        "number-of-tools":5
+        "availableTools": 5,
+        "total":5
       }
       
     ]
