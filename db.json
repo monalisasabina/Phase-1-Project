@@ -1,83 +1,88 @@
 {
-    "tools": [
-      {
-        "id": 1,
-        "name": "Multimeter",
-        "image": "src/pexels-willquezada-904402-4398314.jpg",
-        "availableTools": 5,
-        "total":8
-      },
-      {
-        "id": 2,
-        "name": "Pliers",
-        "image": "src/traditional-combination-plier-2-.jpg",
-        "availableTools": 8,
-        "total":10
-      },
-      {
-        "id": 3,
-        "name": "Long-nose pliers",
-        "image": "src/download (1).jpeg",
-        "availableTools": 8,
-        "total":10
-         
-      },
-      {
-        "id": 4,
-        "name": "Electrical tester",
-        "image": "src/electric-tester-pen.jpg",
-        "availableTools": 15,
-        "total":20
-      },
-      {
-        "id": 5,
-        "name": "Hammer",
-        "image": "src/jonny-gios-ARaYGFeuwpU-unsplash.jpg",
-        "availableTools": 5,
-        "total": 10
-      },
-      {
-        "id": 6,
-        "name": "Flat Screw driver",
-        "image": "src/download.jpeg",
-        "availableTools": 15,
-        "total":20
-      },
-      {
-        "id": 7,
-        "name": "Star Screw Driver",
-        "image": "src/star-screwdriver-2119.html",
-        "availableTools": 10,
-        "total":20
-      },
-      {
-        "id": 8,
-        "name": "Cordless Hand Drill",
-        "image": "src/download (2).jpeg",
-        "availableTools": 8,
-        "total":10
-      },
-      {
-        "id": 9,
-        "name": "Clamp meter",
-        "image": "src/download (3).jpeg",
-        "availableTools": 15,
-        "total":20
-      },
-      {
-        "id": 10,
-        "name": "Adjustable Spanner",
-        "image": "src/360_F_780294730_WWDmhOV4f0OsX7xQmtTqx6TcSqOjRruB.jpg",
-        "availableTools": 12,
-        "total":15
-      },
-      {
-        "id": 11,
-        "name": "Torch",
-        "image": "src/Dp-Led-Portable-Rechargeable-Torch-–-DP-7332B1.webp",
-        "availableTools": 5,
-        "total":5
-      }
-      
-    ]
-  }
+  "tools": [
+    {
+      "id": "1",
+      "name": "Multimeter",
+      "image": "src/pexels-willquezada-904402-4398314.jpg",
+      "availableTools": 5,
+      "total": 8
+    },
+    {
+      "id": "2",
+      "name": "Pliers",
+      "image": "src/traditional-combination-plier-2-.jpg",
+      "availableTools": 8,
+      "total": 10
+    },
+    {
+      "id": "3",
+      "name": "Long-nose pliers",
+      "image": "src/download (1).jpeg",
+      "availableTools": 8,
+      "total": 10
+    },
+    {
+      "id": "4",
+      "name": "Electrical tester",
+      "image": "src/electric-tester-pen.jpg",
+      "availableTools": 15,
+      "total": 20
+    },
+    {
+      "id": "5",
+      "name": "Hammer",
+      "image": "src/jonny-gios-ARaYGFeuwpU-unsplash.jpg",
+      "availableTools": 5,
+      "total": 10
+    },
+    {
+      "id": "6",
+      "name": "Flat Screw driver",
+      "image": "src/download.jpeg",
+      "availableTools": 15,
+      "total": 20
+    },
+    {
+      "id": "7",
+      "name": "Star Screw Driver",
+      "image": "src/screwdriver-33634_1280.webp",
+      "availableTools": 10,
+      "total": 20
+    },
+    {
+      "id": "8",
+      "name": "Cordless Hand Drill",
+      "image": "src/download (2).jpeg",
+      "availableTools": 8,
+      "total": 10
+    },
+    {
+      "id": "9",
+      "name": "Clamp meter",
+      "image": "src/download (3).jpeg",
+      "availableTools": 20,
+      "total": 20
+    },
+    {
+      "id": "10",
+      "name": "Adjustable Spanner",
+      "image": "src/360_F_780294730_WWDmhOV4f0OsX7xQmtTqx6TcSqOjRruB.jpg",
+      "availableTools": 12,
+      "total": 15
+    },
+    {
+      "id": "11",
+      "name": "Torch",
+      "image": "src/Dp-Led-Portable-Rechargeable-Torch-–-DP-7332B1.webp",
+      "availableTools": 5,
+      "total": 5
+    },
+    {
+      "id": "618b",
+      "name": "welding machine",
+      "image": "src/61g43UA0-PL._AC_UF1000,1000_QL80_.jpg",
+      "total": "89",
+      "availableTools": 0
+    }
+  ]
+}
