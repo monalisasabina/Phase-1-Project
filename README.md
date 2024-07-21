@@ -1,4 +1,4 @@
-# PHASE-1 PROJECT: THE ENGINEERING STORES TOOLS STOCKTAKING APPlICATION
+# PHASE-1 PROJECT: THE TOOLS STOCKTAKING APPlICATION
 
 ## INTRODUCTION
   The tools stocktaking application is used to check the number of tools that are in an engineering store.It should also help to see how many tools are available on a day to day basis.
@@ -20,7 +20,8 @@
 
    1. See all tools in the store on the application page. There are cards displayed of each tool below the form. The card consists of;
 
-      ![CARD][/src/Readme/Screenshot from 2024-07-21 21-45-52.png]
+   ![CARD](src/Readme/Screenshot from 2024-07-21 21-45-52.png)
+
 
        * The picture of the tool
 
