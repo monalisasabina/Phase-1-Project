@@ -36,10 +36,14 @@ document.addEventListener("DOMContentLoaded",() =>{
           toolNumber.textContent=`The total Number of tools: ${tool.total}`
           card.appendChild(toolNumber)
 
-        let available=document.createElement('p')
+        const available=document.createElement('p')
           available.className='toolNumber'
           available.textContent=`Number of tools available: ${tool.total}`
           card.appendChild(available)
+
+        let toolStatus=document.createElement('p')
+          card.appendChild(toolStatus)
+          toolStatus.textContent='Tool Status: AVAILABLE'
 
         const addButton=document.createElement('button')  
           addButton.textContent='RETURNED'
@@ -49,9 +53,10 @@ document.addEventListener("DOMContentLoaded",() =>{
 
             tool.availableTools++
             available.textContent=`Number of tools available: ${tool.availableTools}`
+            toolStatus.textContent='Tool Status: AVAILABLE'
 
            }else {
-            addButton.disable=false
+           console.log('tools available') //not expecting it on html
            }
         })
 
@@ -62,19 +67,21 @@ document.addEventListener("DOMContentLoaded",() =>{
             reduceButton.textContent='TAKEN'
             reduceButton.addEventListener('click',() => {
           
-                if(tool.availableTools<50 && tool.availableTools>0){
+                if(tool.availableTools>0){
                 
                  tool.availableTools--
                  available.textContent=`Number of tools available: ${tool.availableTools}`
+                 toolStatus.textContent='Tool Status: TAKEN'
      
-                } 
-                if(tool.availableTools===0){
-                 addButton.disable=false}
+                } else {
+                  toolStatus.textContent='Tool Status: NO TOOLS AVAILABLE'
+                  console.log('no tools') //not expecting it on html
+                }
                 
              })
             card.appendChild(reduceButton)
 
-
+        // Delete button
         const deleteButton =document.createElement('button')
            deleteButton.textContent='DELETE TOOL'
            deleteButton.id='delete-btn'
@@ -126,9 +133,6 @@ document.addEventListener("DOMContentLoaded",() =>{
 
     })
 
-
-// PATCH................................................................................................................................................
-// To update the number of tool-items
 
 
 //DELETE................................................................................................................................................

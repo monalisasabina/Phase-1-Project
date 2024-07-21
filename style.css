@@ -1,7 +1,3 @@
-div#ndani {
-    background-image: url(src/irene-kredenets-E95Lpkg-bgc-unsplash.jpg);
-}
-
 
 #title {
     background-image: url(src/44ae1dd31b5c5905488356f5f030d90f.jpg);
@@ -48,6 +44,7 @@ form{
    margin: auto;
    max-width: 450px;
    margin-top: 10px;
+   margin-left: 10px;
    font-family: "Nunito", sans-serif;
 }
 
@@ -74,7 +71,7 @@ label{
 
 
 #info{
-    background-color: #daa520;
+    padding-left: 15px;
     width: 100%;
     height: 150%;
     box-sizing: border-box;
@@ -82,10 +79,8 @@ label{
 }
 
 div#card {
-margin: 50px 30px 50px 40px;
-
-
-}
+margin: 50px 30px 50px 40px; 
+} 
 
 #card {
     background-color:bisque;
@@ -108,4 +103,8 @@ button {
     background-color: red;
     color: aliceblue;
    
+}
+
+#display{
+    display:flex
 }
