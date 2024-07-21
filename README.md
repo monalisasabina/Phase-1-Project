@@ -8,10 +8,9 @@
 
 ## INSTALLATION
   To open this application you must use web browser(e.g Google Chrome) and then use this link to access the application:
-  
 
-
-
+     https://celadon-florentine-ad5f67.netlify.app/
+     
 
 ## INSTRUCTIONS
    The users are mainly the store manager and store clerks.
