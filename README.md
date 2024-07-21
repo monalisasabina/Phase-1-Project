@@ -20,7 +20,7 @@
 
    1. See all tools in the store on the application page. There are cards displayed of each tool below the form. The card consists of;
 
-      ![CARD][src/Readme/Screenshot from 2024-07-21 21-45-52.png]
+      ![CARD][/src/Readme/Screenshot from 2024-07-21 21-45-52.png]
 
        * The picture of the tool
 
