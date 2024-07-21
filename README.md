@@ -7,8 +7,8 @@
 
 
 ## INSTALLATION
-  The application is should be opened in a web browser. Please use this link to access the application:
-
+  To open this application you must use web browser(e.g Google Chrome) and then use this link to access the application:
+  
 
 
 

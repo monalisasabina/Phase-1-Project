@@ -1,23 +1,21 @@
-
 #title {
     background-image: url(src/44ae1dd31b5c5905488356f5f030d90f.jpg);
     color: white;
     text-align: center;
-    height: 60px;
+    height: 55px;
     font-family: "Nunito", sans-serif;
+    width: 100%;
 }
 
 
 #logo {
     background-color: white;
-    margin-top: 1px;
+
 }    
 
-
 img {
-    height: 100px;
+    height: 110px;
 }
-
 
 a{
     font-family: "Nunito", sans-serif;
@@ -25,20 +23,16 @@ a{
     color: #228b22;
     word-spacing: 25px;
     font-size: 20px;
-
 }
-
 
 nav{
     text-align: right;
-    margin-right: 10px;
 }
-
 
 form{
   background-color:#f0e68c;
    border-radius: 5px;
-   height: 350px;
+   height: 270px;
    width: 600px;
    padding: 40px;
    margin: auto;
